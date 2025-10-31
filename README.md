@@ -1,10 +1,10 @@
-# MoonTV
+# iTV
 
 <div align="center">
-  <img src="public/logo.png" alt="MoonTV Logo" width="120">
+  <img src="public/logo.png" alt="Logo" width="120">
 </div>
 
-> 🎬 **MoonTV** 是一个开箱即用的、跨平台的影视聚合播放器。它基于 **Next.js 14** + **Tailwind&nbsp;CSS** + **TypeScript** 构建，支持多资源搜索、在线播放、收藏同步、播放记录、云端存储，让你可以随时随地畅享海量免费影视内容。
+> 🎬 **iTV** 是一个开箱即用的、跨平台的影视聚合播放器。它基于 **Next.js 14** + **Tailwind&nbsp;CSS** + **TypeScript** 构建，支持多资源搜索、在线播放、收藏同步、播放记录、云端存储，让你可以随时随地畅享海量免费影视内容。
 
 <div align="center">
 
@@ -73,7 +73,7 @@
 
 ### zeabur 一键部署
 
-点击下方按钮即可一键部署，自动配置 LunaTV + Kvrocks 数据库：
+点击下方按钮即可一键部署，自动配置 iTV + Kvrocks 数据库：
 
 [![Deploy on Zeabur](https://zeabur.com/button.svg)](https://zeabur.com/templates/8MPTQU/deploy)
 
@@ -83,7 +83,7 @@
 - ✅ 持久化存储，数据永不丢失
 - ✅ 免费额度足够个人使用
 
-**⚠️ 重要提示**：部署完成后，需要在 Zeabur 中为 LunaTV 服务设置访问域名（Domain）才能在浏览器中访问。详见下方 [设置访问域名](#5-设置访问域名必须) 步骤。
+**⚠️ 重要提示**：部署完成后，需要在 Zeabur 中为 iTV 服务设置访问域名（Domain）才能在浏览器中访问。详见下方 [设置访问域名](#5-设置访问域名必须) 步骤。
 
 ### Kvrocks 存储（推荐）
 
